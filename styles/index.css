@@ -9,9 +9,10 @@ body{
     padding: 20px;
     display: flex;
     flex-direction: column;
+    margin: 20px;
 }
 #container h3{
-    margin: 0 20px;
+    margin: 20px 0;
 }
 #container input{
     border: orange 2px solid;
@@ -19,20 +20,21 @@ body{
     height: 27px;
     width: 180px;
     padding: 10px;
-    margin: 0 20px
+    margin: 30px 0;
 }
 #container select{
     height: 50px;
     width: 180px;
     padding: 10px;
     border: orange 2px solid;
-    margin: 0 20px;
+    margin: 30px 0;
 }
 #container button{
     height: 50px;
     width: 180px;
     padding: 10px;
     border: orange 2px solid;
+    margin: 30px 0;
 }
 #container input:focus{
     border: cornflowerblue 2px solid;
