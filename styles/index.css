@@ -11,7 +11,7 @@ body{
     flex-direction: column;
 }
 #container h3{
-    margin: 20px 0;
+    margin: 0 20px;
 }
 #container input{
     border: orange 2px solid;
@@ -19,12 +19,14 @@ body{
     height: 27px;
     width: 180px;
     padding: 10px;
+    margin: 0 20px
 }
 #container select{
     height: 50px;
     width: 180px;
     padding: 10px;
     border: orange 2px solid;
+    margin: 0 20px;
 }
 #container button{
     height: 50px;
